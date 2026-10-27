@@ -8,7 +8,7 @@
  
 # HEY SOY ARLEY ARENAS SAAVEDRA 👋
  
-### Técnico en Sistemas y Redes · ASIX · NO ME PEGUES FRANCES POR COPIAR :C
+### Técnico en Sistemas y Redes · ASIX · NO ME PEGUES FRANCESC POR COPIAR :C
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Administraci%C3%B3n+de+Sistemas+Inform%C3%A1ticos+en+Red;Linux+%7C+Redes+%7C+Virtualizaci%C3%B3n;Buscando+mi+primera+oportunidad+en+IT)](https://git.io/typing-svg)
 <!--
