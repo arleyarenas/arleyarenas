@@ -28,10 +28,10 @@ Me interesan los servidores Linux, las redes y la virtualización, y aprendo mon
  
 Actualmente trabajo en hostelería, donde he desarrollado trabajo en equipo, organización y capacidad de respuesta bajo presión. Busco dar el salto al **sector tecnológico** (prácticas o primer empleo).
  
-- 🔭 Ahora mismo: terminando ASIX y ampliando mi homelab
-- 🌱 Aprendiendo: _(ej. Docker)_
-- 📍 Cataluña, España
-- 💬 Idiomas: Castellano, Catalán, _(otros)_
+-  Ahora mismo: terminando ASIX y ampliando mi homelab
+-  Aprendiendo: _(ej. Docker)_
+-  Cataluña, España
+-  Idiomas: Castellano, Catalán, _(otros)_
 ---
 
 <!-- ✨ NUEVO: frase destacada -->
