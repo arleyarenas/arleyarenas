@@ -72,7 +72,7 @@ Sistema web para **dar una segunda vida a ordenadores donados**: registra cada e
 | | Equipo | Para qué lo uso |
 | :---: | --- | --- |
 | 💻 | **PC principal** · Windows 11 | Estudio, desarrollo y documentación |
-| 🧪 | **HP Elite x2 1012 G1** · Ubuntu Server | Homelab de pruebas y servidor de ReBoot |
+| 🧪 | Ubuntu Server | Homelab de pruebas y servidor de ReBoot |
 
 ---
 <!--
