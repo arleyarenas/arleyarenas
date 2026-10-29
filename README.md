@@ -8,12 +8,10 @@
 
 <!-- ✨ NUEVO: banner de cabecera -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2F81F7&height=180&section=header&text=Arley%20Arenas&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Sistemas%20%C2%B7%20Redes%20%C2%B7%20Homelab&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2F81F7&height=180&section=header&text=Arley%20Arenas%20Saavedra&fontColor=ffffff&fontSize=42&fontAlignY=35&desc=Sistemas%20%C2%B7%20Redes%20%C2%B7%20Homelab&descAlignY=55&descSize=16" width="100%"/>
 </p>
- 
-# HEY SOY ARLEY ARENAS SAAVEDRA 👋
- 
-### Técnico en Sistemas y Redes · ASIX · NO ME PEGUES FRANCESC POR COPIAR :C
+
+<h2 align="center">Técnico en Sistemas y Redes · ASIX · NO ME PEGUES FRANCESC POR COPIAR :C </h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Administraci%C3%B3n+de+Sistemas+Inform%C3%A1ticos+en+Red;Linux+%7C+Redes+%7C+Virtualizaci%C3%B3n;Buscando+mi+primera+oportunidad+en+IT)](https://git.io/typing-svg)
 <!--
